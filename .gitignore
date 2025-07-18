@@ -1,0 +1,30 @@
+# Node / build tools (just in case)
+node_modules/
+dist/
+build/
+.cache/
+
+# macOS cruft
+.DS_Store
+
+# Log files
+*.log
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# GitHub Pages default files (if used)
+.env
+.env.*
